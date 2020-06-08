@@ -1,4 +1,4 @@
-# Python Institute Course Information <sub>[[1]](#References)</sub>
+# Programming and Source Code Management <sub>[[1]](#References)</sub>
 ## Computer Programs
 
 A program makes a computer usable. Without a program, a computer, even the most powerful one, is nothing more than an object. Programs are the physical manifestation of the Turing Machine mathematical model, which defines a device that is capable of the following:
