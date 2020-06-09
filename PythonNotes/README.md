@@ -65,7 +65,7 @@ There is a rapidly developing form of communication developing within artificial
 
 		Invalid: If I prove you right, then the hat will eat us.
 	
-	This is because hats are not a living creature.
+	Although the second sentence is fanciful and fun, it is also absurd.
 
 Note: A processors instruction list is the alphabet of a machine language because it is the "smallest symbol" the computer is capable of understanding (Turing Machine Abstraction).
 
